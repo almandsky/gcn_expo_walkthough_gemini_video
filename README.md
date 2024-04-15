@@ -5,7 +5,7 @@ In order to know what are the companies attending the Google Cloud Next 2024 Exp
 I converted the video to 480p, and use Gemini 1.5 pro to process 46 minutes video for 2 frames per second.
 
 <div align="center">
-    <img src="company_by_category_v3.png" alt="companies by category" width='90%'/>
+    <img src="company_by_category_v4.png" alt="companies by category" width='90%'/>
 </div>
 
 ## Notebook
